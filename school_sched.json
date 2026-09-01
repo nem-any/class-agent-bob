@@ -1,0 +1,26 @@
+{
+    "2026": {
+        "Fall": {
+            "schedule of classes available": "MAR 16",
+            "registration period": "Mar 30 - Aug 23",
+            "classes begin": "AUG 24",
+            "late registration period": "AUG 24 - AUG 28",
+            "midpoint": "OCT 13",
+            "end of classes": "DEC 07",
+            "exam period": "DEC 08 - DEC 15",
+            "final grades available": "DEC 18"
+        }
+    },
+    "2027": {
+        "Spring": {
+            "schedule of classes available": "OCT 13",
+            "registration period": "OCT 27 - JAN 11",
+            "classes begin": "JAN 12",
+            "late registration period": "JAN 12 - JAN 16",
+            "midpoint": "MAR 03",
+            "end of classes": "APR 27",
+            "exam period": "APR 28 - MAY 05",
+            "final grades available": "MAY 08"
+        }
+    }
+}

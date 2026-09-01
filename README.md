@@ -1,0 +1,35 @@
+# Class Agent Bob
+
+A command-line AI study assistant built in Python, designed to help manage classes, track grades, and answer questions using the Gemini API.
+
+## Features
+
+- **Speak to Class Agent Bob (AI)** — Chat with an AI assistant powered by Google's Gemini API for quick help and Q&A.
+- **Grades and GPA** — Calculate and track your grades and GPA.
+- **Settings** — View, add, edit, or delete your class and schedule information.
+
+## Built With
+
+- Python
+- Google Gemini API
+
+## How to Run
+
+1. Clone the repo:
+```bash
+   git clone https://github.com/your-username/class-agent-bob.git
+   cd class-agent-bob
+```
+2. Install dependencies:
+```bash
+   pip install -r requirements.txt
+```
+3. Add your Gemini API key as an environment variable:
+```bash
+   export GOOGLE_API_KEY="your-api-key-here"
+```
+4. Run the program:
+```bash
+   python main.py
+```
+
