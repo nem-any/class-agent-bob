@@ -19,7 +19,7 @@ A command-line AI study assistant built in Python, designed to help manage class
 
 1. Clone the repo:
 ```bash
-   git clone https://github.com/your-username/class-agent-bob.git
+   git clone https://github.com/nem-any/class-agent-bob.git
    cd class-agent-bob
 ```
 2. Install dependencies:
