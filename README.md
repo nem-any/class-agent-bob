@@ -26,9 +26,7 @@ A command-line AI study assistant built in Python, designed to help manage class
 ```bash
    pip install -r requirements.txt
 ```
-3. Add your Gemini API key as an environment variable:
-```bash
-   export GOOGLE_API_KEY="your-api-key-here"
+3. Add your Gemini API key
 ```
 4. Run the program:
 ```bash
