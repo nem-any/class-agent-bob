@@ -85,6 +85,7 @@ def calculate_menu():
             print('\nERROR. Please enter a valid choice.')
 
 #add new grades
+#this might be broken
 def entering_grades(class_name):
     # opening grading scale
     try:
@@ -177,7 +178,7 @@ def entering_grades(class_name):
                             if total >= 1:
                                 class_grades[class_name] = calc_grade_percentage(class_name)
                                 save_class_grade('class_grades.json', class_grades)
-                            return
+                            break
                         try:
                             score = float(score)
                             gradebook[class_name][name].append(float(score))
