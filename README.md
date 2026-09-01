@@ -27,6 +27,7 @@ A command-line AI study assistant built in Python, designed to help manage class
    pip install -r requirements.txt
 ```
 3. Replace `"api key"` in `ai_settings.py` with your own Gemini API key (I used a free one from [Google AI Studio](https://aistudio.google.com/))
+
 4. Run the program:
 ```bash
    python main.py
