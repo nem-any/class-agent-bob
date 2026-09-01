@@ -2,6 +2,8 @@
 
 A command-line AI study assistant built in Python, designed to help manage classes, track grades, and answer questions using the Gemini API.
 
+⚠️ Work in progress — built for learning purposes, so there may be bugs or rough edges.
+
 ## Features
 
 - **Speak to Class Agent Bob (AI)** — Chat with an AI assistant powered by Google's Gemini API for quick help and Q&A.
